@@ -1,6 +1,9 @@
 streamlit
 folium
 streamlit-folium
+networkx
 requests
-pandas
+polyline
 numpy
+pandas
+matplotlib
